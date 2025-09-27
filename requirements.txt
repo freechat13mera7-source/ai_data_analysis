@@ -1,8 +1,7 @@
-streamlit>=1.36
-pandas>=2.2.3
-numpy>=1.26
-openpyxl>=3.1.5
-pandasai==2.3.2
+streamlit==1.32.0
+pandas==1.5.3
+openpyxl==3.1.2
 groq==0.5.0
+pandasai==2.3.2
 PyYAML>=6.0
 pyarrow>=14.0
